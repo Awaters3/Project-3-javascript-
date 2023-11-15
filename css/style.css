@@ -1,1 +1,63 @@
+body {
+  background-color: blue;
+  font-family: "Times New Roman", Times, serif;
+}
 
+#navbar {
+    background-color:#fefbd8;
+    padding: 15px;
+    margin: 25px 120px;
+    color: #618685;
+    text-align: center;
+
+  nav ul {
+  list-style: none;
+  text-align: center; 
+}
+
+nav li {
+  display: inline-block; 
+  margin: 0 20px;
+}
+
+section {
+  background-color: blue;
+  width: 800px;
+  display: block;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+h1, h3 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.skyline {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.skyline {
+  text-align: center;  
+}
+
+img {
+  width: 500px;
+  height: auto;
+  border: 5px;
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+iframe {
+  width: 560px;
+  height: 315px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
