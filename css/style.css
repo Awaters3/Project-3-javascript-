@@ -61,3 +61,14 @@ iframe {
   margin-left: auto;
   margin-right: auto;
 }
+
+  #map{
+ width: 80%;
+ height: 600px;
+ margin: 20px;
+ margin-top: 200px;
+ max-width: 100%;
+ margin-left: auto;
+ margin-right: auto;
+ text-align: center;
+}
