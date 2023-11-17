@@ -1,14 +1,3 @@
-body {
-  background-color: blue;
-  font-family: "Times New Roman", Times, serif;
-}
-
-#navbar {
-    background-color:#fefbd8;
-    padding: 15px;
-    margin: 25px 120px;
-    color: #618685;
-    text-align: center;
 
   nav ul {
   list-style: none;
